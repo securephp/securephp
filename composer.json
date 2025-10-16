@@ -1,7 +1,7 @@
 {
     "name": "securephp/securephp",
-    "description": "Librairie PHP open source pour sécuriser les applications contre XSS, SQLi, CSRF e t plus",
-    "type": "Library",
+    "description": "Librairie PHP open source pour sécuriser les applications contre XSS, SQLi, CSRF et plus",
+    "type": "library",
     "keywords": ["security", "validation", "sanitization", "encryption", "csrf"],
     "license": "MIT",
     "authors": [
