@@ -1,0 +1,24 @@
+{
+    "name": "securephp/securephp",
+    "description": "Librairie PHP open source pour sécuriser les applications contre XSS, SQLi, CSRF e t plus",
+    "type": "Library",
+    "keywords": ["security", "validation", "sanitization", "encryption", "csrf"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MOLENGO MALANDA FORDI",
+            "email": "fordimalanda7@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SecurePHP\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    }
+}
