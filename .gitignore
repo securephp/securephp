@@ -1,0 +1,8 @@
+# Logs
+logs/
+
+# IDE / système
+*.log
+*.DS_Store
+.idea/
+.vscode/
