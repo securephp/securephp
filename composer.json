@@ -24,8 +24,8 @@
     },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/securephp/securephp"
+            "type": "git",
+            "url": "https://github.com/securephp/securephp.git"
         }
     ]
 }
