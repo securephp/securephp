@@ -4,6 +4,7 @@
     "type": "library",
     "keywords": ["security", "validation", "sanitization", "encryption", "csrf"],
     "license": "MIT",
+    "homepage": "https://github.com/securephp/securephp",
     "authors": [
         {
             "name": "MOLENGO MALANDA FORDI",
