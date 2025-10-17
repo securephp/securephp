@@ -2,7 +2,7 @@
 # SecurePHP
 
 SecurePHP est une bibliothèque PHP légère pour sécuriser vos applications web.
-Elle fournit des fonctionnalités de protection contre les attaques XSS, CSRF, sécurisation de session, et inclut des helpers pour gérer les fichiers et les requêtes
+Elle fournit des fonctionnalités de protection CSRF, sécurisation de session, et inclut des helpers pour gérer les fichiers et les requêtes
 
 ### ⚡ Installation
 
